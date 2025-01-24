@@ -15,7 +15,7 @@ Environment variables play a crucial role in configuring the application for var
 ---
 
 ## Learning Objectives
-By the end of this project, you should be able to:
+By the end of this project, I would be able to:
 
 ### General:
 1. **Unit Testing**:
